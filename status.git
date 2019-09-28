@@ -1,0 +1,15 @@
+git add	MyTcpServer.pro
+git add MyTcpServer.pro.user
+git add MyTcpServer.pro.user.7808914
+git add MyTcpServer.pro.user.8bdd980
+git add MyTcpServer.pro.user.cfcc1f6.4.8-pre1
+git add main.cpp
+git add modbus_common.cpp
+git add modbus_common.h
+git add modbus_rtu.cpp
+git add modbus_rtu.h
+git add mytcpserver.cpp
+git add mytcpserver.h
+git add mytcpserver.ui
+git add readme
+

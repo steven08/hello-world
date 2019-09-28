@@ -1,5 +1,5 @@
-#include "mytcpserver.h"
-#include "ui_mytcpserver.h"
+#include "tcpserver.h"
+#include "ui_tcpserver.h"
 #include "modbus_rtu.h"
 
 MyTcpServer::MyTcpServer(QWidget *parent) :

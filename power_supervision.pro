@@ -16,10 +16,12 @@ TEMPLATE = app
 SOURCES += main.cpp\
         modbus_common.cpp \
         modbus_rtu.cpp \
-        mytcpserver.cpp
+        tcpserver.cpp
 
-HEADERS  += mytcpserver.h \
+HEADERS  += \
     modbus_common.h \
-    modbus_rtu.h
+    modbus_rtu.h \
+    tcpserver.h
 win32:LIBS += -lWS2_32
-FORMS    += mytcpserver.ui
+FORMS    += \
+    tcpserver.ui
